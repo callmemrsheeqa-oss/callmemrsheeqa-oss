@@ -33,6 +33,15 @@ I'm a Mathematics student at **Bahauddin Zakariya University (BZU), Multan**, cu
 
 ## ⭐ Featured Projects
 
+### 🧮 Algebra II — Finite Group Explorer
+An interactive mathematics application developed for my Algebra II coursework. It helps students explore finite group theory through calculations, Cayley tables, classifications, and visualizations.
+
+**Modules:** Finite Abelian Groups, Permutation Groups, and Dihedral Groups.
+
+**Mathematical topics:** direct products, element orders, inverses, symmetric and alternating groups, rotations, reflections, group centres, and order histograms.
+
+**Built with:** Python, Streamlit, SymPy, Matplotlib, Pandas, and NumPy.
+
 ### 📦 Stockout Risk Prediction
 A machine-learning coursework project focused on helping stores identify products that may run out of stock. The goal is to use inventory-related data to estimate stockout risk and support better replenishment decisions.
 
